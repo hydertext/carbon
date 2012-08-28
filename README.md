@@ -1,4 +1,4 @@
-# Carbon
+# Carbon hydertext branch
 
 [![Build Status](https://secure.travis-ci.org/graphite-project/carbon.png?branch=master)](http://travis-ci.org/graphite-project/carbon)
 
